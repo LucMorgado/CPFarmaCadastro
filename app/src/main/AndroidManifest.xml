@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.morgado.cpfarmacadastro">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+
+    <uses-permission-sdk-23 android:name="android.permission.BLUETOOTH"/>
+    <uses-permission-sdk-23 android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission-sdk-23 android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission-sdk-23 android:name="android.permission.BLUETOOTH_SCAN"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/telaCheia">
+        <activity
+            android:name=".extra.AgradecimetoActivity"
+            android:screenOrientation="sensorLandscape"
+            android:exported="false" />
+        <activity
+            android:name=".extra.GanharMais"
+            android:screenOrientation="sensorLandscape"
+            android:exported="false" />
+        <activity
+            android:name=".extra.CupomSorteio"
+            android:screenOrientation="sensorLandscape"
+            android:exported="false" />
+        <activity
+            android:name=".extra.GanhouDesconto"
+            android:screenOrientation="sensorLandscape"
+            android:exported="false" />
+        <activity
+            android:name=".extra.CupomActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".extra.RoletaActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+
+        <activity
+            android:name=".caixas.QualRedeActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".caixas.RedeActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".caixas.LocalActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".caixas.MailActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".caixas.TelefoneActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".caixas.NomeActivity"
+            android:exported="false"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="sensorLandscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

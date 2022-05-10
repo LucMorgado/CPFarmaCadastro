@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.343" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/borda.xml" value="0.343" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/gradiente.xml" value="0.151" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/gradiente2.xml" value="0.3675" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/ic_base_roleta.xml" value="0.343" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/ic_outline.xml" value="0.3675" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/ic_roleta.xml" value="0.3675" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/ic_roleta_full.xml" value="0.3675" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/ic_roleta_sem_sombra.xml" value="0.343" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/input.xml" value="0.151" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/outline.xml" value="0.343" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/rounded.xml" value="0.151" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/drawable/trinta.xml" value="0.3675" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/font/metropolis.xml" value="0.3257802479692176" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout-v26/activity_roleta.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_agradecimeto.xml" value="0.33" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_cupom.xml" value="0.33" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_cupom_sorteio.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_ganhar_mais.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_ganhou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_ganhou_desconto.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_local.xml" value="0.33" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_mail.xml" value="0.22" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_nome.xml" value="0.33" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_qual_rede.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_rede.xml" value="0.25" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_roleta.xml" value="0.25" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_telefone.xml" value="0.25" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/activity_testes.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Lucas/AndroidStudioProjects/CPFarmaCadastro/app/src/main/res/layout/fragment_navedador.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650888556710",
+    "firebase_url": "https://cp-farma-default-rtdb.firebaseio.com",
+    "project_id": "cp-farma",
+    "storage_bucket": "cp-farma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650888556710:android:6c7ab9adca0ddb0005c467",
+        "android_client_info": {
+          "package_name": "com.morgado.cpfarmacadastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650888556710-2o51oqoro5idao66qmbk9vtrqmdaof6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHb6wZtf1E8ptTtLzu4h2zZrZnuY1p0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650888556710-2o51oqoro5idao66qmbk9vtrqmdaof6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

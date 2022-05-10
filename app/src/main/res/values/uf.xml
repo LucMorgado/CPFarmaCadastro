@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>RJ</item>
+<item>RO</item>
+<item>AC</item>
+<item>AM</item>
+<item>RR</item>
+<item>PA</item>
+<item>AP</item>
+<item>TO</item>
+<item>MA</item>
+<item>PI</item>
+<item>CE</item>
+<item>RN</item>
+<item>PB</item>
+<item>PE</item>
+<item>AL</item>
+<item>SE</item>
+<item>BA</item>
+<item>MG</item>
+<item>ES</item>
+<item>RJ</item>
+<item>SP</item>
+<item>PR</item>
+<item>SC</item>
+<item>RS</item>
+<item>MS</item>
+<item>MT</item>
+<item>GO</item>
+<item>DF</item>
+    </string-array>
+</resources>

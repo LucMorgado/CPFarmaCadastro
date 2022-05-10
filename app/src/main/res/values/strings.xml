@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CP Farma Cadastro</string>
+    <string name="next">PROXIMO</string>
+    <string name="label_name">VAMOS COMEÇAR PELO SEU NOME</string>
+    <string name="label_telefone">UM TELEFONE PARA CONTATO</string>
+    <string name="label_mail">Qual seu e-mail?</string>
+    <string name="hint_mail">exemplo@email.com</string>
+    <string name="label2_mail">(E-MAIL)</string>
+    <string name="label2_name">(NOME COMPLETO)</string>
+    <string name="hint_name">José da Silva</string>
+    <string name="label_rede">PARA FINALIZAR… \n JÁ PERTENCE A ALGUMA REDE?</string>
+    <string name="hint_qual">CP Farma</string>
+    <string name="label_qual_rede">QUAL REDE?</string>
+    <string name="label2_qual_Rede">(NOME DA SUA REDE)</string>
+    <string name="hint_local">Duque de Caxias</string>
+    <string name="label_local">QUAL SUA CIDADE E ESTADO?</string>
+    <string name="label2_local">( CIDADE E ESTADO )</string>
+    <string name="ganhar_mais">GANHAR MAIS</string>
+    <string name="texto_parabens">VOCÊ GANHOU 30% \n DE DESCONTO!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto" >Procure um dos nossos consultores e aproveite seu desconto.</string>
+</resources>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".caixas.MailActivity">
+
+ <Button
+        android:id="@+id/btNextMail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="72dp"
+        android:background="@drawable/rounded"
+        android:fontFamily="sans-serif-light"
+        android:insetLeft="20dp"
+        android:insetTop="0dp"
+        android:insetRight="20dp"
+        android:insetBottom="0dp"
+        android:text="@string/next"
+        android:textAlignment="center"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/inputMail"
+        style="@android:style/Widget.AutoCompleteTextView"
+        android:layout_width="804dp"
+        android:layout_height="98dp"
+        android:autofillHints=""
+        android:background="@drawable/input"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:hint="@string/hint_mail"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,TextContrastCheck" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/label_mail"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toTopOf="@+id/inputMail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:text="@string/label2_mail"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+   <TextView
+       android:id="@+id/btNav3"
+       android:layout_width="32dp"
+       android:layout_height="32dp"
+       android:layout_marginTop="16dp"
+       android:background="@drawable/borda"
+       android:backgroundTint="@color/secundaria"
+       android:paddingTop="5dp"
+       android:text="3"
+       android:textAlignment="center"
+       android:textColor="@color/secundaria"
+       android:textSize="16sp"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <TextView
+       android:id="@+id/btNav2"
+       android:layout_width="32dp"
+       android:layout_height="32dp"
+       android:layout_marginTop="16dp"
+       android:layout_marginEnd="8dp"
+       android:background="@drawable/borda"
+
+       android:paddingTop="5dp"
+       android:text="2"
+       android:textAlignment="center"
+       android:textColor="@color/white"
+       android:textSize="16sp"
+       app:layout_constraintEnd_toStartOf="@+id/btNav3"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <TextView
+       android:id="@+id/btNav1"
+       android:layout_width="32dp"
+       android:layout_height="32dp"
+       android:layout_marginTop="16dp"
+       android:layout_marginEnd="8dp"
+       android:background="@drawable/borda"
+       android:paddingTop="5dp"
+       android:text="1"
+       android:textAlignment="center"
+       android:textColor="@color/white"
+       android:textSize="16sp"
+       app:layout_constraintEnd_toStartOf="@+id/btNav2"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <TextView
+       android:id="@+id/btNav4"
+       android:layout_width="32dp"
+       android:layout_height="32dp"
+       android:layout_marginStart="8dp"
+       android:layout_marginTop="16dp"
+       android:background="@drawable/borda"
+       android:paddingTop="5dp"
+       android:text="4"
+       android:textAlignment="center"
+       android:textColor="@color/white"
+       android:textSize="16sp"
+       app:layout_constraintStart_toEndOf="@+id/btNav3"
+       app:layout_constraintTop_toTopOf="parent" />
+
+   <TextView
+       android:id="@+id/btNav5"
+       android:layout_width="32dp"
+       android:layout_height="32dp"
+       android:layout_marginStart="8dp"
+       android:layout_marginTop="16dp"
+       android:background="@drawable/borda"
+       android:paddingTop="5dp"
+       android:text="5"
+       android:textAlignment="center"
+       android:textColor="@color/white"
+       android:textSize="16sp"
+       app:layout_constraintStart_toEndOf="@+id/btNav4"
+       app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
